@@ -150,8 +150,6 @@ Dataset: [Kaggle — Quora Question Pairs](https://www.kaggle.com/c/quora-questi
 
 **Ankush Gupta**
 
-Data Science Undergraduate | IIT Madras
-
 [GitHub](https://github.com/ankvsh)
 
 ---
